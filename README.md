@@ -1,16 +1,33 @@
-<h1 align="center">Hi 👋, I'm Supriya Kumari</h1>
-<h3 align="center">A graduate in Computer Science and Engineering</h3>
+# Hi there, I'm Supriya Kumari! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya2kumari&label=Profile%20views&color=0e75b6&style=flat" alt="supriya2kumari" /> </p>
+I am a Computer Science and Engineering graduate with a passion for coding and problem-solving. Here's a little about me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/supriya--kumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya--kumari/" height="30" width="40" /></a>
-</p>
+- 🎓 Graduated in Computer Science and Engineering
+- 💻 Experience with Java, Python, Golang
+- 🛢️ Experience with MySQL
+- 🧰 Familiar with Git and Postman
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supriya2kumari&show_icons=true&locale=en&layout=compact" alt="supriya2kumari" /></p>
+-  Java
+-  Python
+-  Golang
+-  MySQL
+-  Postman
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya2kumari&" alt="supriya2kumari" /></p>
+## Education
+
+- **Bachelor of Technology in Computer Science and Engineering**
+  - Rajasthan College of Engineering for Women, 2023
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Supriya%20Kumari-blue)](https://www.linkedin.com/in/supriya--kumari)
+
+## GitHub Stats
+
+[![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supriya2kumari&show_icons=true&hide=prs&theme=radical)](https://github.com/Supriya2kumari)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories, or connect with me on LinkedIn. Happy coding! 
