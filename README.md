@@ -1,4 +1,4 @@
-# Hi there, I'm Supriya Kumari! 👋
+# Hey there 👋, I'm Supriya Kumari! 
 
 I am a Computer Science and Engineering graduate with a passion for coding and problem-solving. Here's a little about me:
 
@@ -14,6 +14,9 @@ I am a Computer Science and Engineering graduate with a passion for coding and p
 -  Golang
 -  MySQL
 -  Postman
+-  HTML
+-  CSS
+-  Javascript
 
 ## Education
 
