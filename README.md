@@ -4,6 +4,7 @@ I am a Computer Science and Engineering graduate with a passion for coding and p
 
 - 🎓 Graduated in Computer Science and Engineering
 - 💻 Experience with Java, Python, Golang
+- 🧑‍💻 Experience with HTML, CSS, Tailwind, Javascript 
 - 🛢️ Experience with MySQL
 - 🧰 Familiar with Git and Postman
 
@@ -16,12 +17,14 @@ I am a Computer Science and Engineering graduate with a passion for coding and p
 -  Postman
 -  HTML
 -  CSS
+-  Tailwind 
 -  Javascript
 
 ## Education
 
 - **Bachelor of Technology in Computer Science and Engineering**
   - Rajasthan College of Engineering for Women, 2023
+  - CGPA: 8.5
 
 ## Connect with Me
 
