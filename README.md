@@ -10,15 +10,18 @@ I am a Computer Science and Engineering graduate with a passion for coding and p
 
 ## Skills
 
--  Java
--  Python
--  Golang
--  MySQL
--  Postman
 -  HTML
 -  CSS
 -  Tailwind 
 -  Javascript
+-  ReactJS
+-  Express
+-  Java
+-  Python
+-  Golang
+-  MySQL
+-  MongoDB
+-  Postman
 
 ## Education
 
